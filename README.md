@@ -1,2 +1,2 @@
-# joaoandrade.github.io
+# João Andrade
 main site
